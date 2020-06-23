@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <putin>
+    <name>Владимир</name>
+    <surname>Путин</surname>
+    <dolgnost>Игровой</dolgnost>
+  </putin>
+  <putin>
+    <name>Владимир</name>
+    <surname>Путин</surname>
+    <dolgnost>Банкетный</dolgnost>
+  </putin>
+</NewDataSet>
